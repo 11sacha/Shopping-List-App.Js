@@ -1,0 +1,12 @@
+{
+    "name": "Shopping List",
+    "short_name": "Shop List",
+    "icons":
+    [
+        {"src":"resources/icons8-market-64.png","sizes":"164x164", "type":"image/png"},
+        {"src":"resources/peach-goma.jpg","sizes":"712x600","type":"image/jpg"}
+    ],
+    "theme_color": "#dce1eb",
+    "background_color": "#dce1eb",
+    "display": "standalone"
+}
